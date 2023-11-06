@@ -1,7 +1,7 @@
 # Flesh and Blood (FAB) Printable Labels
 Printable sheet for all Flesh and Blood (FAB) sets with logos. 
 
-Rebuilt and updated MTG labels for card organization by set. This document is currently designed for Avery Easy Peel Address Labels (8.5in. x 11in.)
+This document is currently designed for Avery Easy Peel Address Labels (8.5in. x 11in.)
 
 - Print on Avery Address Labels 
   - for inkjet printer [Avery 8460](https://amzn.to/3YvzlMS)
@@ -16,4 +16,6 @@ Rebuilt and updated MTG labels for card organization by set. This document is cu
 
 If you would like to contribute, the following work would be appreciated:
 - Adding new sets and supplementary products as they release.
-- Creating SVG icons for FAB/LSS assets. 
+- Creating hero and class labels.
+- Creating rarity labels. 
+- Creating SVG icons for FAB/LSS assets.
